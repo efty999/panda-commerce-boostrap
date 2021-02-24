@@ -1,0 +1,33 @@
+.container{
+    padding: 15px 20px;
+}
+.h-300{
+    height: 300px;
+}
+.panda-slide{
+    background-color: rgba(251,234,232,255)
+}
+.btn-pink{
+    background-color: rgba(250,8,124,255);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.text-pink{
+    color: rgba(250,8,124,255);
+}
+.panda-card{
+    border: 0;
+}
+.panda-subscribe{
+    background-color: rgba(251,234,232,255)
+}
+.panda-footer{
+    border: 0;
+    background-color: #ffffff;
+}
+.categories img{
+    width: 100px;
+}
